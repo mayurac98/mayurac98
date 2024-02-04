@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurac98
 - 👀 I’m interested in python,SQL 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me mayumayura5@gmail.com
 
 <!---
